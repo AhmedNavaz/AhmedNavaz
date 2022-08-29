@@ -1,4 +1,4 @@
-[![MasterHead](Coding.png)]
+![MasterHead](banner.png)
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A wannabe computer scientist from Pakistan</h3>
 <img align="right" alt="Problem Solving" width="400" src="https://miro.medium.com/max/1400/1*mDzNHcT46zmUecs3pAgdqw.gif">
