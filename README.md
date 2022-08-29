@@ -1,4 +1,4 @@
-[![MasterHead(https://i.pinimg.com/originals/42/a8/d4/42a8d4625aeb088c45eba5a84ca36325.gif)](https://AhmedNavaz.io)
+[![MasterHead(Coding.png)]
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A wannabe computer scientist from Pakistan</h3>
 <img align="right" alt="Problem Solving" width="400" src="https://miro.medium.com/max/1400/1*mDzNHcT46zmUecs3pAgdqw.gif">
