@@ -1,7 +1,7 @@
 ![MasterHead](banner.png)
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A wannabe computer scientist from Pakistan</h3>
-<img align="right" alt="Problem Solving" width="400" src="[https://miro.medium.com/max/1400/1*mDzNHcT46zmUecs3pAgdqw.gif](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)">
+<img align="right" alt="Problem Solving" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmednavaz&label=Profile%20views&color=0e75b6&style=flat" alt="ahmednavaz" /> </p>
