@@ -1,4 +1,4 @@
-![MasterHead](banner.png)
+![MasterHead](https://media2.giphy.com/media/u2pmTWUi0MXjyrMaVj/200w.gif?cid=82a1493b2hsfhd53gkf9zj1gpqq0q1yt30i448b8u0bqwl1q&rid=200w.gif&ct=g)
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A wannabe computer scientist from Pakistan</h3>
 <img align="right" alt="Problem Solving" width="400" src="https://miro.medium.com/max/1400/1*mDzNHcT46zmUecs3pAgdqw.gif">
