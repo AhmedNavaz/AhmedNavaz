@@ -1,10 +1,10 @@
-![MasterHead](https://media2.giphy.com/media/u2pmTWUi0MXjyrMaVj/200w.gif?cid=82a1493b2hsfhd53gkf9zj1gpqq0q1yt30i448b8u0bqwl1q&rid=200w.gif&ct=g)
+![MasterHead](banner.png)
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A wannabe computer scientist from Pakistan</h3>
 <img align="right" alt="Problem Solving" width="400" src="https://miro.medium.com/max/1400/1*mDzNHcT46zmUecs3pAgdqw.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmednavaz&label=Profile%20views&color=0e75b6&style=flat" alt="ahmednavaz" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=ahmednavaz&label=Profile%20views&color=0e75b6&style=flat](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" alt="ahmednavaz" /> </p>
 
 - 🔭 I’m currently working on [CBT using Deep Learning](https://github.com/AhmedNavaz/psychotherapy_chatbot)
 
