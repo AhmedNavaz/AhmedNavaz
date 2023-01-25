@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **ahmednawaz.dev@gmail.com**
 
+- 👨‍💻 All of my projects are available at [https://ahmednavaz.github.io](https://ahmednavaz.github.io)
+
 - ⚡ Fun fact **Machines can't have fun**
 
 <h3 align="left">Connect with me:</h3>
