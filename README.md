@@ -1,6 +1,5 @@
 # Ahmed Nawaz
 ### Full-Stack Developer · Flutter · Spring Boot · AWS · SaaS Builder
-
 📍 Pakistan &nbsp;|&nbsp; 🌐 [ahmednawaz.dev](https://ahmednawaz.dev) &nbsp;|&nbsp; ✉️ ahmednawaz.dev@gmail.com
 
 ---
@@ -20,6 +19,25 @@ I'm the co-founder of **[GetDoobi](https://getdoobi.app)**, a multi-tenant SaaS 
 - 💬 Ask me about **Flutter, Spring Boot, PostgreSQL, or AWS**
 - 📫 Reach me at **ahmednawaz.dev@gmail.com**
 - 🌐 Portfolio: **[ahmednawaz.dev](https://ahmednawaz.dev)**
+
+---
+
+## Featured Projects
+
+### GetDoobi — Multi-Tenant Laundry SaaS
+White-label platform for on-demand laundry businesses. Per-tenant schema isolation, real-time order workflows, Flutter mobile apps, admin dashboards, and driver management. Runs on AWS (EC2, RDS PostgreSQL, S3, CloudFront, Route53).
+
+`Flutter` `Spring Boot` `PostgreSQL` `AWS` `Nginx` `Multi-tenant`
+
+### Sakun — Mental Wellness App
+Mobile application for mental wellness and self-improvement — mindfulness, habit tracking, routines, and personal growth. Built around clean UX and lightweight daily engagement to keep users coming back without overwhelming them.
+
+`Flutter` `Dart` `UX Design` `Mobile`
+
+### PodcastDB — AI-Powered Podcast Discovery
+Podcast discovery and analytics platform with AI-powered search and recommendations. Built with React, Node.js, PostgreSQL, and OpenSearch on AWS infrastructure.
+
+`React` `Node.js` `PostgreSQL` `OpenSearch` `AWS`
 
 ---
 
