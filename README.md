@@ -29,15 +29,15 @@ White-label platform for laundry businesses: customer app, driver app, POS, laun
 
 `Flutter` `Spring Boot` `PostgreSQL` `AWS` `Nginx` `Multi-tenant`
 
-### Sakun: Sleep & Wellness App
+### [Sakun](https://apps.apple.com/us/app/sakun-deep-sleep-relaxation/id6450653536): Sleep & Wellness App
 Calm, lightweight app for sleep, mindfulness and daily routines. **10,000+ downloads.**
 
 `Flutter` `Dart` `Mobile` `UX`
 
-### PodcastDB: AI-Powered Podcast Discovery
-Podcast discovery and analytics with AI-powered search and recommendations.
+### [Throughline](https://github.com/AhmedNavaz/throughline): Open-Source AI Coding Workspace
+Desktop app that keeps one coding conversation per project across Claude Code and Codex. Import your existing chats, switch agents mid-task and hand off context to teammates, all on your own subscriptions.
 
-`React` `Node.js` `PostgreSQL` `OpenSearch` `AWS`
+`Electron` `Node.js` `JavaScript` `Claude Code` `Codex` `Open source`
 
 ---
 
